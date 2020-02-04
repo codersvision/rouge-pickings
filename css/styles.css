@@ -1,0 +1,87 @@
+/* GLOBAL */
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #000;
+    margin: 0;
+}
+
+ul {
+    padding: 0;
+}
+
+/* NAVIGATION */
+.navbar-brand .logo {
+    color: #77A466;
+}
+.navbar-brand {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #000;
+}
+.nav-link {
+    color: #77A466 !important;
+    font-size: 0.875;
+}
+.navbar-toggler-icon {
+    color: #77A466;
+}
+
+/* MAIN SECTION */
+.hero-img {
+    width: 100%;
+    border-top: 5px solid #77A466;
+    border-bottom: 5px solid #77A466;
+}
+
+.header-title {
+    color: #77A466;
+    font-size: 1.125rem;
+    font-weight: 600;
+    margin: 30px 0;
+    text-decoration: uppercase;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.info {
+    border-top: 1px solid rgba(0, 0, 0, .5);
+    border-bottom: 1px solid rgba(0, 0, 0, .5);
+}
+.contact-section, 
+.review-section{
+    border-left: 1px solid rgba(0, 0, 0, .5);
+}
+
+.specials {
+    color: #77A466;
+    font-size: 1rem;
+    list-style-type: none;
+    padding-top: 10px;
+}
+.info-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    padding-top: 30px;
+}
+
+.info-review {
+    font-size: 1rem;
+}
+
+/* FOOTER */
+p .fresh {
+    color: #77A466;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+}
+
+footer p {
+    font-weight: 600;
+}
+
+.end-statement {
+    padding-top: 20px;
+}
